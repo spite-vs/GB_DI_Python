@@ -7,6 +7,8 @@ from hw_6_module.puzzles import *
 # puzzle_storage()
 
 print(date_is_true('01.12.2024'))
-print(date_is_true()) # python .\hw_6.py '15.10.20250'
+# print(date_is_true()) # python .\hw_6.py '15.10.2250'
 
-generate_squares()
+x = generate_squares()
+print(generate_squares())
+print(is_hit(x))
