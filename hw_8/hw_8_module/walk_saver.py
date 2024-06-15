@@ -22,7 +22,7 @@ def get_size(path):
     
     
 def walk_saver(path: Path)->None:
-    """Обходит все каталоги, начиная с текущего и создаёт json-файл с описанием параметров всех объектов в нём"""
+    """Обходит все каталоги, начиная с текущего и создаёт файлы формата json, csv и pickle с описанием параметров всех объектов в нём"""
     result = []
     for item in iter(path.rglob('*')):
         result.append({'name': item.name, 'parent': str(item.parent), 'type': 'file' if item.is_file() else 'dir', 'size': get_size(item)})
