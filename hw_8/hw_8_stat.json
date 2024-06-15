@@ -1,0 +1,194 @@
+[
+    {
+        "name": "hw_8.py",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "file",
+        "size": 815
+    },
+    {
+        "name": "hw_8_module",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "dir",
+        "size": 26121
+    },
+    {
+        "name": "hw_8_stat.csv",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "file",
+        "size": 1659
+    },
+    {
+        "name": "hw_8_stat.json",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "file",
+        "size": 3342
+    },
+    {
+        "name": "hw_8_stat.pickle",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "file",
+        "size": 1841
+    },
+    {
+        "name": "new_users.csv",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "file",
+        "size": 362
+    },
+    {
+        "name": "new_users.json",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "file",
+        "size": 925
+    },
+    {
+        "name": "new_users.pickle",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "file",
+        "size": 372
+    },
+    {
+        "name": "output.json",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "file",
+        "size": 158
+    },
+    {
+        "name": "output.pickle",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "file",
+        "size": 136
+    },
+    {
+        "name": "users.csv",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "file",
+        "size": 122
+    },
+    {
+        "name": "users.json",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "file",
+        "size": 312
+    },
+    {
+        "name": "users.pickle",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8",
+        "type": "file",
+        "size": 174
+    },
+    {
+        "name": "csv_to_json.py",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module",
+        "type": "file",
+        "size": 1090
+    },
+    {
+        "name": "csv_to_pickle.py",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module",
+        "type": "file",
+        "size": 687
+    },
+    {
+        "name": "input_user.py",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module",
+        "type": "file",
+        "size": 1309
+    },
+    {
+        "name": "json_to_csv.py",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module",
+        "type": "file",
+        "size": 792
+    },
+    {
+        "name": "json_to_pickle.py",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module",
+        "type": "file",
+        "size": 817
+    },
+    {
+        "name": "pickle_to_csv.py",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module",
+        "type": "file",
+        "size": 688
+    },
+    {
+        "name": "walk_saver.py",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module",
+        "type": "file",
+        "size": 2206
+    },
+    {
+        "name": "write_json.py",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module",
+        "type": "file",
+        "size": 1083
+    },
+    {
+        "name": "__init__.py",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module",
+        "type": "file",
+        "size": 134
+    },
+    {
+        "name": "__pycache__",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module",
+        "type": "dir",
+        "size": 17315
+    },
+    {
+        "name": "csv_to_json.cpython-311.pyc",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module\\__pycache__",
+        "type": "file",
+        "size": 2165
+    },
+    {
+        "name": "csv_to_pickle.cpython-311.pyc",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module\\__pycache__",
+        "type": "file",
+        "size": 1546
+    },
+    {
+        "name": "input_user.cpython-311.pyc",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module\\__pycache__",
+        "type": "file",
+        "size": 2695
+    },
+    {
+        "name": "json_to_csv.cpython-311.pyc",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module\\__pycache__",
+        "type": "file",
+        "size": 1964
+    },
+    {
+        "name": "json_to_pickle.cpython-311.pyc",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module\\__pycache__",
+        "type": "file",
+        "size": 1718
+    },
+    {
+        "name": "pickle_to_csv.cpython-311.pyc",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module\\__pycache__",
+        "type": "file",
+        "size": 1753
+    },
+    {
+        "name": "walk_saver.cpython-311.pyc",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module\\__pycache__",
+        "type": "file",
+        "size": 3544
+    },
+    {
+        "name": "write_json.cpython-311.pyc",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module\\__pycache__",
+        "type": "file",
+        "size": 1598
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "parent": "C:\\Users\\spite\\Downloads\\Studies\\GB\\Data_Ingineer\\Python\\hw_8\\hw_8_module\\__pycache__",
+        "type": "file",
+        "size": 332
+    }
+]
